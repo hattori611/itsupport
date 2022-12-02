@@ -106,7 +106,7 @@ body { font-size: 1em;}
 .side1:before{ border-color: rgba(115, 115, 0, 0.3) transparent transparent transparent; }
 .side2:before{ border-color: rgba(20, 90, 225, 0.3) transparent transparent transparent; }
 .side3:before{ border-color: rgba(255,   0, 0, 0.3) transparent transparent transparent; } 
-.side4:before{ border-color: rgba(0, 255, 255, 0.3) transparent transparent transparent; }
+.side4:before{ border-color: rgba(238, 223, 12, 0.568) transparent transparent transparent; }
 
 
 @-webkit-keyframes turnPyramid { 100% { -webkit-transform: rotateX(75deg) rotate(425deg); } }
